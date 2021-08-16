@@ -11,10 +11,10 @@ We will use SQL to pull the number of retiring employees and count them based on
 
 ## Results
 
-![Retiring Titles](githubcomDavidFGitH)
+![Retiring Titles](https://github.com/DavidFGitH/Pewlett-Hackard-Analysis/blob/main/Resources/Retiring%20Titles.png)
 - According to the count of employees in the unique titles folder number to 90398, which is over 20% of all the employees contained among all the data. Looking at the above table, we can see the count of employees with the specified titles.
 
-![Mentorship Titles](githubcomDavidFGitH)
+![Mentorship Titles](https://github.com/DavidFGitH/Pewlett-Hackard-Analysis/blob/main/Resources/Mentorship%20Titles.png)
 - If we count the number of employees that are eligible for mentorship, the number we get is 1549 eligible employees. In the table above made separately we can see of the number of employees with a specific title.
 
 - The distribution of the employees that qualify for the mentorship program is relatively on par with the employees that are retiring. However, counting the staff on mentorship program, we can see no managers as part of the mentors, while looking at the people at risk to retire have both managers from the data. Other than that, of the people potentially retiring, over 30% are going to be Senior Engineers and Senior Staff each, which is not to far from the distribution of employees with the same titles for the mentorship program.
